@@ -1,0 +1,14 @@
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\bin\Debug\net8.0\BaholashTizim.exe
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\bin\Debug\net8.0\BaholashTizim.deps.json
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\bin\Debug\net8.0\BaholashTizim.runtimeconfig.json
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\bin\Debug\net8.0\BaholashTizim.dll
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\bin\Debug\net8.0\BaholashTizim.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\obj\Debug\net8.0\BaholashTizim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\obj\Debug\net8.0\BaholashTizim.AssemblyInfoInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\obj\Debug\net8.0\BaholashTizim.AssemblyInfo.cs
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\obj\Debug\net8.0\BaholashTizim.csproj.CoreCompileInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\obj\Debug\net8.0\BaholashTizim.dll
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\obj\Debug\net8.0\refint\BaholashTizim.dll
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\obj\Debug\net8.0\BaholashTizim.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\obj\Debug\net8.0\BaholashTizim.genruntimeconfig.cache
+C:\Users\manzura\OneDrive\Рабочий стол\BaholashTizim\obj\Debug\net8.0\ref\BaholashTizim.dll
